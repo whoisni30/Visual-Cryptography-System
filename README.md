@@ -89,6 +89,6 @@ Nitish Kumar
 
 gmail: nitishcse4@gmail.com 
 
-gitHub.com/whoisni30
+https://www.github.com/whoisni30
 
-linkedin.com/in/nitish-kumar-69b32b232
+https://www.linkedin.com/in/nitish-kumar-69b32b232/
