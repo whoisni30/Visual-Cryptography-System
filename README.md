@@ -86,6 +86,9 @@ Visual-Cryptography-System/
 ## Author
 
 Nitish Kumar
+
 gmail: nitishcse4@gmail.com 
+
 gitHub.com/whoisni30
+
 linkedin.com/in/nitish-kumar-69b32b232
