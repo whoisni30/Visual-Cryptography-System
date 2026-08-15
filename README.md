@@ -70,10 +70,11 @@ Visual-Cryptography-System/
 ## Applications
 
 * Secure image authentication
+* Confidential document sharing
 * Digital watermarking
-* Confidential image sharing
-* Document verification
 * Identity verification systems
+* Medical image protection
+* Multi-share secret image distribution
 
 ## Future Enhancements
 
