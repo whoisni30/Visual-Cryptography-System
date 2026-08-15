@@ -1,5 +1,5 @@
 # Visual-Cryptography-System
-Visual cryptography system for secure image authentication using Python and Pillow (PIL).
+Python-based Visual Cryptography System for secure image authentication, secret image sharing, and digital watermarking using Pillow (PIL) and pixel-level image encryption.
 
 <h1 align="center">Visual Cryptography System for Secure Image Authentication</h1>
 
